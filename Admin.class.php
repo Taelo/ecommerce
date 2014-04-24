@@ -1,4 +1,5 @@
 <?php
+//this is Admin class
 	class admin
 	{
 		private $Admin_name_regex = "[a-zA-Z]{1,20}";
